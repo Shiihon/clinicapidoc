@@ -5,7 +5,7 @@ function Home() {
         <>
             <div className="home">
                 <h1 className="home-title">Welcome to the Clinic API</h1>
-                <p className="home-description">We’re here to connect you to the healthcare that fits your life.</p>
+                <p className="home-description">We’re here to connect you to the healthcare that fits your life...</p>
                 <img 
                     src={clinicLogo} 
                     alt="Clinic Logo" 
